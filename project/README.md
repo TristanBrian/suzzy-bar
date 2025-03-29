@@ -1,5 +1,16 @@
 # Suzzy Bar
 
+## Table of Contents
+- [Description](#description)
+- [Features](#features)
+- [Installation](#installation)
+  - [Prerequisites](#prerequisites)
+  - [Steps to Install](#steps-to-install)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
 ## Description
 Suzzy Bar is a web application that allows users to view a menu of products, filter them by category, and add items to their cart. It is built using React and Supabase for backend services.
 
@@ -41,4 +52,4 @@ Contributions are welcome! Please open an issue or submit a pull request.
 This project is licensed under the MIT License.
 
 ## Contact
-Tristan Brian - [lessusbrian7@gmail.com ]
+Tristan.Dev - [lessusbrian7@gmail.com]
